@@ -5,3 +5,5 @@ Kottu
 Cheese
 Burger
 Submarine
+
+Thank you for choosing us :)
